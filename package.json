@@ -1,0 +1,27 @@
+{
+  "name": "ap-template-docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^4.4.0",
+    "gatsby-ap-doc-theme": "^1.0.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesWrightDev/ap-template-docs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamesWrightDev/ap-template-docs/issues"
+  },
+  "homepage": "https://github.com/JamesWrightDev/ap-template-docs#readme"
+}
